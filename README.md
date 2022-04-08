@@ -14,3 +14,11 @@ ver3.cpp:
 Program to print half pyramid using alphabets
 
 ![Screenshot](ver3.PNG)
+
+ver4.cpp:
+Program to print Inverted half pyramid using *
+![Screenshot](ver4.png)
+
+ver5.cpp:
+Program to print Inverted half pyramid using numbers
+![Screenshot](ver5.png)
