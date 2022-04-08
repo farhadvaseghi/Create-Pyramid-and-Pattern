@@ -17,8 +17,8 @@ Program to print half pyramid using alphabets
 
 ver4.cpp:
 Program to print Inverted half pyramid using *
-![Screenshot](ver4.png)
+![Screenshot](ver4.PNG)
 
 ver5.cpp:
 Program to print Inverted half pyramid using numbers
-![Screenshot](ver5.png)
+![Screenshot](ver5.PNG)
